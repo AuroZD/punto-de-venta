@@ -1,0 +1,3 @@
+﻿  PuntoDeVenta.cpp
+C:\Programas_Proyectos\Punto_de_venta\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta.cpp(41,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PuntoDeVenta.vcxproj -> C:\Programas_Proyectos\Punto_de_venta\PuntoDeVenta\x64\Debug\PuntoDeVenta.exe
